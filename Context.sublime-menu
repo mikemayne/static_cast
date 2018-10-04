@@ -1,0 +1,13 @@
+[
+{
+   "id" : "refactorStaticCast",
+	"caption": "refactor",
+	"children":
+	[
+	{
+		"caption" : "static_cast<...>",
+		"command" : "static_cast"
+	}
+	]
+}
+]
