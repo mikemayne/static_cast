@@ -1,5 +1,5 @@
 # static_cast
-refactoring for sublime text. Changes "highlighted_text" into "static_cast<>(highlighted_text)" 
+refactoring for sublime text. Adds a context menu item that changes "highlighted_text" into "static_cast<>(highlighted_text)" 
 
 # installation
 in sublime text on linux:
